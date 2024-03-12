@@ -1,0 +1,125 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Menu 'Fitness'",
+      "descr": "The 'Fitness' menu is a new approach to cooking: more fresh vegetables and fruits. A product for active and healthy people. This is a completely new product with the best price and high quality!",
+      "price": 9,
+      "id": "76f5"
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Menu 'Lenten'",
+      "descr": "The “Lenten” menu is a careful selection of ingredients: a complete absence of animal products, milk from almonds, oats, coconut or buckwheat, the right amount of proteins from tofu and imported vegetarian steaks.",
+      "price": 14,
+      "id": "0a3b"
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menu 'Premium'",
+      "descr": "In the “Premium” menu we use not only beautiful packaging design, but also high-quality execution of dishes. Red fish, seafood, fruits - a restaurant menu without going to a restaurant!",
+      "price": 21,
+      "id": "1294"
+    }
+  ],
+  "requests": [
+    {
+      "id": "8223",
+      "name": "sdasd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "8f46",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "bdbf",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "a2be",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "ffcd",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "067d",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "3d45",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "f0f4",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "26a5",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "d094",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "2e17",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "69ce",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "d323",
+      "name": "asd",
+      "phone": "asdasd"
+    },
+    {
+      "id": "fd23",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "6111",
+      "name": "sdasd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "1c81",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "2f04",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "d171",
+      "name": "s",
+      "phone": "+7 (145) 135-13-51"
+    },
+    {
+      "id": "8200",
+      "name": "asd",
+      "phone": "+7 (145) 135-13-51"
+    }
+  ]
+}
